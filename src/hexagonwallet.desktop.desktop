@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Hexagon Wallet
+Comment=Hexagon wallet
+Exec=hexagonwallet %U
+Terminal=false
+Type=Application
+Icon=hexagon
+MimeType=x-scheme-handler/hexagon;
+Categories=Office;Finance;
+Name[en_US]=hexagonwallet.desktop

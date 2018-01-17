@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "Hexagon_Wallet")
+set(CN_CURRENCY_DISPLAY_NAME "hexagon")
+set(CN_CURRENCY_TICKER "HEX")
+set(CN_VERSION 2.1.2)
